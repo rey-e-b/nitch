@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://cdn.discordapp.com/attachments/955362477137362954/996769449480826971/2022-07-13_16-25.png" width="350px">
+<img src="https://media.discordapp.net/attachments/1253611061311967285/1309626370929852537/image.png?ex=6742441a&is=6740f29a&hm=7ad090058170cc042dba94f6ee1e467ff8615487048e8e4dff4728e3d442e11d&=&format=webp&quality=lossless&width=980&height=808" width="350px">
 
 # `NiTch`
 
@@ -9,15 +9,15 @@
 </h3>
 <br>
 
-![Maintenance](https://shields.io/maintenance/yes/2022?style=for-the-badge)
-![License](https://shields.io/github/license/unxsh/nitch?style=for-the-badge)
-![Commits](https://shields.io/github/commit-activity/m/unxsh/nitch?style=for-the-badge)
+![Maintenance](https://shields.io/maintenance/yes/2024?style=for-the-badge)
+![License](https://shields.io/github/license/rey-e-b/nitch?style=for-the-badge)
+![Commits](https://shields.io/github/commit-activity/m/rey-e-b/nitch?style=for-the-badge)
 
-![GitHub Repo stars](https://img.shields.io/github/stars/unxsh/nitch?style=for-the-badge)
-![GitHub issues](https://img.shields.io/github/issues/unxsh/nitch?style=for-the-badge)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/unxsh/nitch?style=for-the-badge)
+![GitHub Repo stars](https://img.shields.io/github/stars/rey-e-b/nitch?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/rey-e-b/nitch?style=for-the-badge)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/rey-e-b/nitch?style=for-the-badge)
 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/unxsh/nitch?style=for-the-badge)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/rey-e-b/nitch?style=for-the-badge)
 
 </div>
 
